@@ -13,4 +13,10 @@ Este repositório contém exercícios resolvidos do site da beecrowd. Estes exem
 * 2761 | [Entrada e Saída de Vários Tipos](iniciante/python/2761/2761.py)
 
 * 2762 | [Entrada e Saída 6](iniciante/python/2762/2762.py)
-* 
+  
+* 2763 | [Entrada e Saída CPF](iniciante/python/2763/2763.py)
+
+* 2764 | [Entrada e Saída de Data](iniciante/python/2764/2764.py)
+
+* 2765 | [Entrada e Saída com Virgula](iniciante/python/2765/2765.py)
+
