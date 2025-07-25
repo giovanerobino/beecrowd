@@ -11,3 +11,6 @@ Este repositório contém exercícios resolvidos do site da beecrowd. Estes exem
 * 2760 | [Entrada e Saída de String](iniciante/python/2760/2760.py)
 
 * 2761 | [Entrada e Saída de Vários Tipos](iniciante/python/2761/2761.py)
+
+* 2762 | [Entrada e Saída 6](iniciante/python/2762/2762.py)
+* 
