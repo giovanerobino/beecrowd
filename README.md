@@ -20,3 +20,5 @@ Este repositório contém exercícios resolvidos do site da beecrowd. Estes exem
 
 * 2765 | [Entrada e Saída com Virgula](iniciante/python/2765/2765.py)
 
+* 2766 | [Entrada e Saída Lendo e Pulando Nomes](iniciante/python/2766/2766.py)
+
